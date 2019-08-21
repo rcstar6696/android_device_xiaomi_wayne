@@ -44,6 +44,10 @@ PRODUCT_PACKAGES += \
     android.hardware.ir@1.0-impl \
     android.hardware.ir@1.0-service
 
+# Keylayout
+PRODUCT_COPY_FILES += \
+    $(DEVICE_PATH)/configs/keylayout/sdm660-snd-card_Button_Jack.kl:$(TARGET_COPY_OUT_VENDOR)/usr/keylayout/sdm660-snd-card_Button_Jack.kl
+
 # SD Card
 PRODUCT_CHARACTERISTICS := nosdcard
 
