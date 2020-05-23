@@ -59,6 +59,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     init.device.rc
 
+# Vibrator
+PRODUCT_PACKAGES += \
+    android.hardware.vibrator@1.0-impl \
+    android.hardware.vibrator@1.0-service
+
 # Properties
 include $(DEVICE_PATH)/vendor_prop.mk
 
