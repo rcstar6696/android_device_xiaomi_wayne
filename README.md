@@ -1,26 +1,26 @@
 Copyright (C) 2017 The LineageOS Project
+Copyright (C) 2020 Xiaomi-SDM660 Project
 
-Device configuration for Xiaomi Mi 6
-=========================================
+The MI 6X (codenamed _"wayne"_) is a mid-range phone from Xiaomi.
 
-The Xiaomi Mi 6 (codenamed _"Sagit"_) is a high-end smartphone from Xiaomi.
-
-It was announced in April 2017. Release date was April 2017.
+Xiaomi MI 6X was announced and released in April 2018.
 
 ## Device specifications
 
-Basic   | Spec Sheet
--------:|:-------------------------
-CPU     | Quad-core 2.45 GHz Kryo 280 & Quad-core 1.9 GHz Kryo 280
-Chipset | Qualcomm MSM8998 Snapdragon 835
-GPU     | Adreno 540
-Memory  | 6 GB RAM
-Shipped Android Version | 7.1.1
-Storage | 64/128 GB (UFS Flash)
-Battery | Non-removable Li-Po 3350 mAh (QC 3.0)
-Display | 1080 x 1920 pixels, 5.15 inches (~428 ppi pixel density)
-Camera  | Dual 12 MP, f/1.8, phase detection autofocus, dual-LED (dual tone) flash
+| Device       | Xiaomi MI 6X         |
+| -----------: | :---------------------------------------------- |
+| SoC          | Qualcomm SDM660 Snapdragon 660                  |
+| CPU          | 8x Qualcomm® Kryo™ 260 up to 2.2GHz             |
+| GPU          | Adreno 512                                      |
+| Memory       | 4GB / 6GB RAM (LPDDR4X)                         |
+| Shipped Android version | 8.1.0                           	   |
+| Storage      | 32/64/128GB eMMC 5.1 flash storage              |
+| Battery      | Non-removable Li-Po 3010 mAh               	   |
+| Dimensions   | 158.7 x 75.4 x 7.3 mm	                         |
+| Display      | 1080x2160 pixels, 5.99    						           |
+Rear Camera    | 12MP+20MP, AI Dual Camera
+Front Camera   | 20 MP
 
 ## Device picture
 
-![Xiaomi Mi 6](http://i8.mifile.cn/a1/pms_1492571518.47778002!560x560.jpg "Xiaomi Mi 6 in black")
+![Xiaomi MI 6X](https://img.staticbg.com/thumb/large/oaupload/banggood/images/90/CB/781c0a93-de94-4010-86c8-5b9f846f4aa4.jpg "Xiaomi MI A2")
