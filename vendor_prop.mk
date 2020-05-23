@@ -15,3 +15,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     persist.vendor.imx376_sunny.light.lux=275 \
     persist.vendor.imx376_sunny.low.lux=290 \
     vidc.enc.dcvs.extra-buff-count=2
+
+# Dual SIM
+PRODUCT_PROPERTY_OVERRIDES += \
+    persist.radio.multisim.config=dsds
