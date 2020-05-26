@@ -45,4 +45,4 @@ TARGET_SCREEN_DENSITY := 480
 WLAN_MAC_SYMLINK := true
 
 # Inherit from proprietary files
-include vendor/xiaomi/wayne-common/BoardConfigVendor.mk
+include vendor/xiaomi/wayne/BoardConfigVendor.mk
