@@ -35,5 +35,8 @@ TARGET_OTA_ASSERT_DEVICE := wayne
 # Display
 TARGET_SCREEN_DENSITY := 480
 
+# WLAN MAC
+WLAN_MAC_SYMLINK := true
+
 # Inherit from proprietary files
 include vendor/xiaomi/wayne-common/BoardConfigVendor.mk
